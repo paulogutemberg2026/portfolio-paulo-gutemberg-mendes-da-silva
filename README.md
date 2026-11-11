@@ -1,15 +1,15 @@
 # Paulo Gutemberg Mendes
-> Estudante de Analise e Desenvolvimento de Sistemas
+🧑‍🎓 Estudante de Analise e Desenvolvimento de Sistemas
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-gutemberg-mendes-da-silva-a865bb320)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulogutemberg.pm@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
-### 󰞵 Sobre
+### 📰 Sobre
 Atualmente cursando o 2° período de ADS na UNICID. Sou apaixonado por resolver problemas através da
 tecnologia e possuo foco em Engearia de IA Desenvolvedor de backend.
-* **Habilidades Técnicas:** .
+* **Habilidades Técnicas:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
@@ -29,17 +29,11 @@ Científica/Estágio] onde desenvolvi [resultado principal].
 #### 󰳕 Desenvolvimento Front-End para Web
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Site Básico em HTML5** | Criação de site básico com 5 páginas em
-HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
-| **Deploy de Site** | Publicação de site no github pages. | [Ver
-Projeto](./AT2-Deploy-de-Site/) |
-| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com
-JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
-| **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento
-de um site com múltiplas páginas. | [Ver
-Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
-| **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end
-com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
+| **Site Básico em HTML5** | Criação de site básico com 5 páginas em HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
+| **Deploy de Site** | Publicação de site no github pages. | [Ver Projeto](./AT2-Deploy-de-Site/) |
+| **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
+| **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento de um site com múltiplas páginas. | [Ver Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
+| **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
 #### 🗃 Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
